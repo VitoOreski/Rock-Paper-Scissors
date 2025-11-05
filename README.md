@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors
-Basic rock, paper, scissors website game i created. Please do not look in the javascript file.
+WEBSITE LINK: https://vitooreski.github.io/Rock-Paper-Scissors/
+This is a basic game of rock, paper, scissors created in a website.
